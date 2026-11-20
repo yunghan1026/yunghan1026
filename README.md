@@ -14,7 +14,7 @@ I'm keen to deepen my knowledge of AI and software development through hands-on 
 - 🤝 Keen to collaborate on projects and learn from experienced engineers
 - 🌐 Portfolio: Coming Soon! 
 
-![My skills](https://skillicons.dev/icons?i=python,cpp,js,flutter,firebase,cloudflare,git,github,vscode)
+![My skills](https://skillicons.dev/icons?i=python,cpp,java,js,flutter,dart,firebase,cloudflare,git,github,vscode)
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yunghan1026)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yunghanwong/)
