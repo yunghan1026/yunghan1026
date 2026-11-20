@@ -1,6 +1,6 @@
 # Hi! I'm Jaymes Wong! 👋
 
-## Year 2 NUS Student Majoring in AI | Seeking AI & Software Engineering Internships
+## Year 2 NUS Student Majoring in AI 
 
 I'm a second-year student at the National University of Singapore,
 majoring in Artificial Intelligence. I'm interested in applying AI
