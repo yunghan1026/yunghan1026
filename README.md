@@ -1,4 +1,4 @@
-# Hi, I'm Jaymes! 👋
+# Hi! I'm Jaymes Wong! 👋
 
 ## Year 2 NUS Student Majoring in AI | Seeking AI & Software Engineering Internships
 
